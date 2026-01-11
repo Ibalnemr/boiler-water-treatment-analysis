@@ -28,7 +28,13 @@ The data used in this project is simulated and AI-generated for educational and 
 
 ### 3. Tools Used
 - Excel: Pivot Tables, Pivot Charts, Slicers, Conditional Formatting  
-- Dynamic Dashboard (Power BI) for visualization and answering project questions
+- Dynamic Dashboard (Excel) for visualization and answering project questions
+
+## 📂 Project Files
+
+- `/data/original_data.csv` → Raw (dirty) data  
+- `/dashboard/water treatment for boiler final.xlsx` → Clean data + Dashboard  
+- `/report/report.pdf` → Screenshots of analysis and dashboard
 
 ## 📊 Outcome
-The results will be used to update operational strategies to ensure the highest levels of quality and resource efficiency.
+These results can be used to update operational strategies to ensure the highest levels of quality and resource efficiency.
